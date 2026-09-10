@@ -4,7 +4,7 @@
 
 # Mira
 
-Mira is a local-first visual canvas for agents. It lets an agent place Markdown, HTML, images, and videos onto a clean board, while you preview the same context visually.
+将 Markdown、HTML、图片和视频放入本地任务画布，支持并排比较、批注和上下文整理。
 
 ## Install The Skill
 
@@ -90,3 +90,15 @@ Mira uses Next.js, React, TypeScript, React Flow, Tiptap, Radix UI, and a Node.j
 ## License
 
 MIT
+
+## 配置、依赖与使用边界
+
+需要 Mira 本地 CLI / 服务及其项目依赖；先检查 status，迁移沿用现有配置，不因预览任务重新创建用户资料。
+
+只导入选定文件并复用明确画板 ID；打开服务不代表每个文件已成功导入。双 Skill 入口需保持同步。
+
+使用示例：
+
+```text
+用 mira 把这些 Markdown 和截图放到一个独立画板。
+```

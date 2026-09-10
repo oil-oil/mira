@@ -1,6 +1,6 @@
 ---
 name: mira
-description: Use this skill whenever an Agent needs a visual workspace for local Markdown, HTML, images, or videos. Trigger proactively when a task involves previewing images or videos, comparing multiple documents or generated outputs, organizing context across multiple turns, reviewing HTML made from documents, drafting prompts with file references, collecting visual evidence for AI, reading Markdown comments, or keeping task-specific files on a canvas. Also trigger when the user mentions Mira, canvas, visual context, local preview, file nodes, boards, comments, or copying context.
+description: "使用 Mira 将本地 Markdown、HTML、图片和视频组织到任务画布，支持并排比较、文件引用、批注和上下文整理。用户明确要求 Mira 或需要持久的多文件画布时使用。不因普通文件读取、单张图片查看、简单回复或其他产品的 canvas 一词自动启用；不预设用户需要安装全局软件或创建长期记录。"
 ---
 
 # Mira
