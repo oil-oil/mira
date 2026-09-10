@@ -4,7 +4,7 @@
 
 # Mira
 
-Mira is a local-first visual canvas for agents. It lets an agent place Markdown, HTML, images, and videos onto a clean board, while you preview the same context visually.
+将 Markdown、HTML、图片和视频放入本地任务画布，支持并排比较、批注和上下文整理。
 
 ## Install The Skill
 
